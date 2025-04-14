@@ -74,6 +74,6 @@ pyinstaller -w -i 判决检索.ico search_app_SQL.py
 
 ## 作者信息
 
-作者：许钦滔
 首次发布：2023/7/10
+
 最后更新：2024/4/07
