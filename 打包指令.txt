@@ -1,0 +1,2 @@
+pyinstaller -w -i 判决检索.ico search_app_SQL.py
+打包时记得拷贝jieba文件夹进去，不然会无法运行。
